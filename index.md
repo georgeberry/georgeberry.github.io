@@ -5,7 +5,7 @@ title: George Berry
 
 ## George Berry
 
-CV
+[CV](georgeberry.github.io/cv.pdf)
 
 geb97 at cornell dot edu
 
