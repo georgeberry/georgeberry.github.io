@@ -1,6 +1,12 @@
 ---
-title: "George Berry"
+layout: page
+title: George Berry
 ---
+
+CV
+
+geb97 at cornell dot edu
+berry at fb dot com
 
 ### Bio
 
