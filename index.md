@@ -7,9 +7,13 @@ title: George Berry
 
 [CV](georgeberry.github.io/cv.pdf)
 
-geb97 at cornell dot edu
+[work page](https://research.fb.com/people/berry-george/)
 
-berry at fb dot com
+[google scholar](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en)
+
+[@george_berry](https://twitter.com/george_berry)
+
+geb97 at cornell dot edu
 
 ### Bio
 
