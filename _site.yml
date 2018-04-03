@@ -1,0 +1,7 @@
+name: "Homepage"
+navbar:
+  title: "George Berry"
+  left:
+    - text: "Home"
+      href: index.html
+output_dir: "."
