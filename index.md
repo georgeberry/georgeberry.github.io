@@ -7,8 +7,6 @@ title: George Berry
 
 [CV](georgeberry.github.io/cv.pdf)
 
-[work page](https://research.fb.com/people/berry-george/)
-
 [google scholar](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en)
 
 [@george_berry](https://twitter.com/george_berry)
@@ -17,24 +15,15 @@ geb97 at cornell dot edu
 
 ### Bio
 
-I study sociology at Cornell University. I'm in my 5th year, and advised by Michael Macy. Before coming to Cornell, I studied English at Oberlin College, and then worked with economist Eugene White for a year studying banking panics. At Cornell, I've broadened my research interests and frequently work across disciplines. I spent the last two summers interning at Facebook on the Core Data Science team, working primarily with Sean Taylor. I have in-progress work with Chris Cameron, Alex Peysakhovich, and Ana Franco.
+I'm a PhD candidate in sociology at Cornell University advised by Michael Macy. I study social contagion, homophily in networks, and online conversations. I have interests in moderation and design of online conversational spaces, particularly with deliberative discourse and misinformation in mind.
 
-I will be joining Facebook's Core Data Science (methods) team starting in Fall 2017.
+From September 2017 to February 2019, I was a full-time research scientist on Facebook's Core Data Science team (Core Stats / Interaction Science subteams). During this time I was part of Facebook's Election Integrity effort (you can see press coverage of some of the work I did ahead of the 2017 Alabama special election [here](https://money.cnn.com/2018/03/21/technology/mark-zuckerberg-cnn-interview-transcript/index.html)). I then developed methods to better understand large public conversations, with a focus on understanding what particularly good interactions looked like in the contexts of large Pages and news stories. This worked combined elements of graph kernels with participant surveys to understand how particular types of interactions were perceived by people in those interactions. In this time, I also developed an interested in graph neural networks, and I remain optimistic that GNNs can be employed productively for sociological analysis.
 
-### Research interests
+### Research
 
-I study influence processes and properties of social structure using computational techniques. These techniques include machine learning, natural language processing, causal inference, digital experimentation, and simulation. I view a main part of my work as adapting and advancing these methods for sociological research.
+Please check out my [Google Scholar page](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en).
 
-Substantively, I am interested in how influence processes operate in public spaces online, in patterns of online association, and in the role social structure plays in bridging the micro-macro divide. There is a continuum in my work: influence processes operate at the individual level, while social structure constrains how these individual processes may coalesce into a whole.
 
 ### Fellow travelers
 
 I am fortunate to work and study alongside talented people: Antonio Sirianni, Tom Davidson, Wei Dong, Minsu Park, Milena Tsvetkova, Patrick Park, Yongren Shi, Mario Molina, Min Yi, and Rediet Abebe.
-
-### Open source
-
-Open source and code sharing are important to me, both as a matter of principle and for replicability of studies. You can check my github or the Social Dynamics Lab github to see some of the stuff I've worked on. I wrote the first version of Blaunet, an open-source R package for computing social distance measures. New work on this package is done by Cheng Wang. In addition, I have contributed to the NLTK package, along with a doing a really simple poll analysis, and sharing some silly code to send a tweet when your Python code fails.
-
-### Misc
-
-I'm an avid reader and video gamer. When I'm not reading sociological tomes, I like science fiction and contemporary short-form writing. You can also find me playing simulation games and imagining how the simulation model could be made more realistic.
