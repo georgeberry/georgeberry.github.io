@@ -11,17 +11,20 @@ title: George Berry
 
 [@george_berry](https://twitter.com/george_berry)
 
-geb97 at cornell dot edu
+george.e.berry at gmail dot com
 
 
 ### Bio
 
-I'm a PhD candidate in sociology at Cornell University advised by Michael Macy. I study social contagion, homophily in networks, online conversations, and (increasingly) political persuasion. I employ methods such as experimentation, natural language processing, and simulation to address difficult questions (often in networks). The unifying theme in my work is: picking sociologically important outcomes which are hard to study, and finding a way to study them reliably. I am often unreasonably excited about getting the measurement component of a study right.
+I'm a sociologist, data scientist, experimentalist, and builder. 
+
+I obtained my PhD in 2020 from Cornell University, where I studied under Michael Macy. My academic interests include social contagion, homophily in networks, online conversations, and experimental design.
 
 From September 2017 to February 2019, I was a full-time research scientist on Facebook's Core Data Science team (Core Stats / Interaction Science subteams). During this time I was part of Facebook's Election Integrity effort (you can see press coverage of some of the work I did ahead of the 2017 Alabama special election [here](https://money.cnn.com/2018/03/21/technology/mark-zuckerberg-cnn-interview-transcript/index.html)). I then developed methods to better understand large public conversations, with a focus on understanding what particularly good interactions looked like in the contexts of large Pages and News stories. This worked combined elements of graph kernels with participant surveys to understand how particular types of interactions were perceived by people in those interactions.
 
-From June 2019 to Fall 2019, I worked as the tech lead of Twitter's Conversation Data Science team. Since Fall of 2019, I am employed as a Senior Machine Learning Engineer (or Data Scientist, choose your own adventure here) at Civis Analytics. I work on experimentation and building Bayesian models in a deep learning context.
+Since Fall of 2019, I am employed as a Senior Machine Learning Engineer (or Data Scientist, choose your own adventure here) at Civis Analytics. I work on experimentation and building Bayesian models, particularly in the context of heterogeneous treatment effect detection. During the 2020 election cycle, I was the lead on the core ad-testing infrastructure at Civis. This system tested a large number of ads and was involved in allocating a substantial amount of ad spend in the 2020 election cycle.
 
+Other meaningful work experiences include time spent at Twitter and Graphika.
 
 ### Selected papers
 
