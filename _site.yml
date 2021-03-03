@@ -1,0 +1,10 @@
+name: "georgeberry"
+output_dir: "docs"
+navbar:
+  title: "george berry"
+  left:
+  - text: "who am i?"
+    href: index.html
+output:
+  html_document:
+    theme: yeti

@@ -1,21 +1,17 @@
 ---
-layout: page
-title: George Berry
+title: "Bio"
+output: html_document
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
 
-## George Berry
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
-[google scholar](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en)
-
-[twitter](https://twitter.com/george_berry)
-
-[github](https://github.com/georgeberry)
-
-[cv](georgeberry.github.io/cv.pdf)
-
-george.e.berry at gmail dot com
-
-### Bio
 
 I'm a sociologist, data scientist, experimentalist, and builder. 
 
@@ -25,7 +21,19 @@ I have published on using [field experiments for studying online conversations](
 
 I have also written a (hopefully) clear [introduction to causal inference](https://osf.io/preprints/socarxiv/ncvqs/) for folks studying web data.
 
-### Work
+## Contact
+
+* [google scholar](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en)
+
+* [twitter](https://twitter.com/george_berry)
+
+* [github](https://github.com/georgeberry)
+
+* [cv](georgeberry.github.io/cv.pdf)
+
+* george.e.berry at gmail dot com
+
+## Work
 
 From fall of 2019 to Winter of 2020, I was employed as a Senior Machine Learning Engineer (or Data Scientist, choose your own adventure here) at Civis Analytics. I worked on experimentation and building Bayesian models, particularly in the context of heterogeneous treatment effect detection. During the 2020 election cycle, I was the lead on the core ad-testing infrastructure at Civis. This system tested thousands of ads and was involved in allocating a substantial amount of ad spend (e.g. hundreds of millions of dollars) in the 2020 election cycle.
 
@@ -33,7 +41,7 @@ From September 2017 to February 2019, I was a full-time research scientist on Fa
 
 Other meaningful work experiences include time spent at Twitter and Graphika.
 
-### Selected research
+## Selected research
 
 * **George Berry**, Antonio Sirianni, Ingmar Weber, Jisun An, and Michael Macy. "Going beyond accuracy: estimating homophily in social networks using predictions." [arXiv preprint arXiv:2001.11171](https://arxiv.org/abs/2001.11171) (2020).
 
