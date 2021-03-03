@@ -29,7 +29,7 @@ I have also written a (hopefully) clear [introduction to causal inference](https
 
 * [github](https://github.com/georgeberry)
 
-* [cv](georgeberry.github.io/cv.pdf)
+* [cv](https://github.com/georgeberry/georgeberry.github.io/blob/master/cv.pdf)
 
 * george.e.berry at gmail dot com
 
