@@ -1,1 +1,1 @@
-# bayes-pages
+# my personal site
