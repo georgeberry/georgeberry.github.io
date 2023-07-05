@@ -17,19 +17,25 @@ I'm a sociologist, data scientist, experimentalist, and builder.
 
 I obtained my PhD in 2020 from Cornell University, where I studied under Michael Macy. My academic interests include social contagion, homophily in networks, online conversations, and experimental design.
 
-I have published on using [field experiments for studying online conversations](https://arxiv.org/pdf/1702.06677.pdf), on [challenges to studying cross-group connection in online environments](https://arxiv.org/pdf/2001.11171.pdf), on [fundamental problems for studying social influence in networks](https://arxiv.org/pdf/1702.02700.pdf), and on [methods for studying social similarity in the absence of explicit network information](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204990).
+Some publications you may find interesting
+
+* [Empirical work on friendship loss after the 2016 election and its relationship to fears of social breakdown](https://osf.io/preprints/socarxiv/cqrgp/)
+* [Field experiments for studying online conversations](https://arxiv.org/pdf/1702.06677.pdf)
+* [Challenges to studying cross-group connection in online environments](https://arxiv.org/pdf/2001.11171.pdf)
+* [Fundamental problems for studying social influence in networks](https://arxiv.org/pdf/1702.02700.pdf)
+* [Methods for studying social similarity in the absence of explicit network information](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204990)
 
 I have also written a (hopefully) clear [introduction to causal inference](https://osf.io/preprints/socarxiv/ncvqs/) for folks studying web data.
 
-## Contact
+## Socials
 
 * [google scholar](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en)
+
+* [georgeberry.bsky.social](georgeberry.bsky.social)
 
 * [twitter](https://twitter.com/george_berry)
 
 * [github](https://github.com/georgeberry)
-
-* [cv](https://github.com/georgeberry/georgeberry.github.io/blob/master/cv.pdf)
 
 * george.e.berry at gmail dot com
 
@@ -37,14 +43,8 @@ I have also written a (hopefully) clear [introduction to causal inference](https
 
 I currently work as a Machine Learning Engineer at Blue Rose Research, where I focus on modeling and measurement.
 
-## Selected research
+## Side hustles
 
-* **George Berry**, Antonio Sirianni, Ingmar Weber, Jisun An, and Michael Macy. "Going beyond accuracy: estimating homophily in social networks using predictions." [arXiv preprint arXiv:2001.11171](https://arxiv.org/abs/2001.11171) (2020).
+If you'd like my advice or input on something, reach out and we can discuss. I get these requests a **lot** and I do charge for them, just so you know.
 
-* **George Berry**, Christopher J. Cameron, Patrick Park, and Michael Macy. "The opacity problem in social contagion." [Social Networks 56 (2019): 93-101](https://arxiv.org/pdf/1702.02700.pdf).
-
-* Michael Genkin, Cheng Wang, **George Berry**, and Matthew E. Brashears. "Blaunet: An R-based graphical user interface package to analyze Blau space." [PloS one 13, no. 10 (2018)](https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0204990).
-
-* **George Berry**, and Sean J. Taylor. "Discussion quality diffuses in the digital public square." [In Proceedings of the 26th International Conference on World Wide Web, pp. 1371-1380](https://arxiv.org/pdf/1702.06677.pdf). 2017.
-
-Please check out my [Google Scholar page](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en) for other work I've done.
+I co-own a small trading card company called Pink Label Cards. Check out our [shop](https://www.ebay.com/str/pinklabelcards) and follow us on [Instagram](https://www.instagram.com/pinklabelcards/).
