@@ -37,6 +37,8 @@ I have also written a (hopefully) clear [introduction to causal inference](https
 
 * [github](https://github.com/georgeberry)
 
+* [substack blog](https://georgeberry.substack.com/)
+
 * george.e.berry at gmail dot com
 
 ## Work
