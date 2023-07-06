@@ -33,6 +33,8 @@ I have also written a (hopefully) clear [introduction to causal inference](https
 
 * [georgeberry.bsky.social](georgeberry.bsky.social)
 
+* [threads](https://www.threads.net/@dr.george.berry)
+
 * [twitter](https://twitter.com/george_berry)
 
 * [github](https://github.com/georgeberry)
