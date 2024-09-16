@@ -17,23 +17,22 @@ I'm a sociologist, data scientist, experimentalist, and builder.
 
 I obtained my PhD in 2020 from Cornell University, where I studied under Michael Macy. My academic interests include social contagion, homophily in networks, online conversations, and experimental design.
 
+I currently work on experimentation and Bayesian stats in the political realm.
+
+Lately, I write on my [substack blog](https://georgeberry.substack.com/) before publishing elsewhere, and I'm active on [twitter](https://twitter.com/george_berry).
+
 Some publications you may find interesting
 
+* [How to evaluate presidential election forecasts in less than 1000 years](https://osf.io/bjf6x)
 * [Empirical work on friendship loss after the 2016 election and its relationship to fears of social breakdown](https://osf.io/preprints/socarxiv/cqrgp/)
 * [Field experiments for studying online conversations](https://arxiv.org/pdf/1702.06677.pdf)
-* [Challenges to studying cross-group connection in online environments](https://arxiv.org/pdf/2001.11171.pdf)
 * [Fundamental problems for studying social influence in networks](https://arxiv.org/pdf/1702.02700.pdf)
-* [Methods for studying social similarity in the absence of explicit network information](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204990)
 
 I have also written a (hopefully) clear [introduction to causal inference](https://osf.io/preprints/socarxiv/ncvqs/) for folks studying web data.
 
 ## Socials
 
 * [google scholar](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en)
-
-* [georgeberry.bsky.social](georgeberry.bsky.social)
-
-* [threads](https://www.threads.net/@george.berry_)
 
 * [twitter](https://twitter.com/george_berry)
 
@@ -51,4 +50,4 @@ I currently work as a Machine Learning Engineer at Blue Rose Research, where I f
 
 If you'd like my advice or input on something, reach out via email and we can discuss. I get these requests a **lot** and I do charge for them, just so you know.
 
-I co-own a small trading card company called Pink Label Cards. Check out our [shop](https://www.ebay.com/str/pinklabelcards) on EBay and follow us on [Instagram](https://www.instagram.com/pinklabelcards/).
+I co-own a small trading card store called **Card Shop Near Me** in central NJ (near Princeton). Come visit us if you're in the area! Check out our [Shopify store](https://cardshopnearmenj.com/), [Google Maps profile](https://maps.app.goo.gl/8u5fBXc65TtUmu368), [eBay shop](https://www.ebay.com/str/pinklabelcards), and follow us on [Instagram](https://www.instagram.com/cardshopnearme/).
