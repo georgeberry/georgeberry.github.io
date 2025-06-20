@@ -17,8 +17,6 @@ I'm a sociologist, data scientist, experimentalist, and builder.
 
 I obtained my PhD in 2020 from Cornell University, where I studied under Michael Macy. My academic interests include social contagion, homophily in networks, online conversations, and experimental design.
 
-I currently work on experimentation and Bayesian stats in the political realm.
-
 Lately, I write on my [substack blog](https://georgeberry.substack.com/) before publishing elsewhere, and I'm active on [twitter](https://twitter.com/george_berry).
 
 Some publications you may find interesting
@@ -41,10 +39,6 @@ I have also written a (hopefully) clear [introduction to causal inference](https
 * [substack blog](https://georgeberry.substack.com/)
 
 * george.e.berry at gmail dot com
-
-## Work
-
-I currently work as a Machine Learning Engineer at Blue Rose Research, where I focus on modeling and measurement.
 
 ## Side hustles
 
