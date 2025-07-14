@@ -5,6 +5,10 @@ navbar:
   left:
   - text: "About"
     href: index.html
+  - text: "CardShopNear.Me"
+    href: https://cardshopnear.me/
+  - text: "BLayers"
+    href: https://github.com/georgeberry/blayers
 output:
   html_document:
     theme: readable
