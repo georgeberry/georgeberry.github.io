@@ -3,8 +3,8 @@ output_dir: "docs"
 navbar:
   title: "george berry"
   left:
-  - text: "who am i?"
+  - text: "About"
     href: index.html
 output:
   html_document:
-    theme: yeti
+    theme: readable

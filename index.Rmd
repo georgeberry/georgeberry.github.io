@@ -12,8 +12,11 @@ knit: (function(input_file, encoding) {
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+I'm a sociologist, data scientist, experimentalist, and builder.
 
-I'm a sociologist, data scientist, experimentalist, and builder. 
+Right now, I am building a trading card business called **Card Shop Near Me** in Princeton Jct, NJ. You can visit us at [CardShopNear.Me](CardShopNear.Me), on [Instagram](https://www.instagram.com/cardshopnearme), or in real life in the [Princeton area](https://maps.app.goo.gl/556ZVxcJBWcedQjs5)!
+
+I am also developing an open source Bayesian layers package called [BLayers](https://github.com/georgeberry/blayers) on top of Jax + Numpyro.
 
 I obtained my PhD in 2020 from Cornell University, where I studied under Michael Macy. My academic interests include social contagion, homophily in networks, online conversations, and experimental design.
 
@@ -31,17 +34,11 @@ I have also written a (hopefully) clear [introduction to causal inference](https
 ## Socials
 
 * [google scholar](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en)
-
 * [twitter](https://twitter.com/george_berry)
-
 * [github](https://github.com/georgeberry)
-
 * [substack blog](https://georgeberry.substack.com/)
-
 * george.e.berry at gmail dot com
 
-## Side hustles
+## Consulting
 
-If you'd like my advice or input on something, reach out via email and we can discuss. I get these requests a **lot** and I do charge for them, just so you know.
-
-I co-own a small trading card store called **Card Shop Near Me** in central NJ (near Princeton). Come visit us if you're in the area! Check out our [Shopify store](https://cardshopnearmenj.com/), [Google Maps profile](https://maps.app.goo.gl/8u5fBXc65TtUmu368), [eBay shop](https://www.ebay.com/str/pinklabelcards), and follow us on [Instagram](https://www.instagram.com/cardshopnearme/).
+If you'd like my advice or input on something technical, reach out via email and we can discuss. I offer consulting on experimentation, causal inference, and Bayesian statistics.
