@@ -8,6 +8,16 @@ knit: (function(input_file, encoding) {
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
 
+```{css, echo=FALSE}
+.container {
+max-width: 600px !important;
+}
+
+.main-container {
+  max-width: 750px !important;
+}
+```
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
