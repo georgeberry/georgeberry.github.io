@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I'm a sociologist, data scientist, experimentalist, and builder.
 
-Right now, I am building a trading card business called **Card Shop Near Me** in Princeton Jct, NJ. You can visit us at [CardShopNear.Me](CardShopNear.Me), on [Instagram](https://www.instagram.com/cardshopnearme), or in real life in the [Princeton area](https://maps.app.goo.gl/556ZVxcJBWcedQjs5)!
+Right now, I am building a trading card business called **Card Shop Near Me** in Princeton Jct, NJ. You can visit us at [CardShopNear.Me](https://cardshopnear.me/), on [Instagram](https://www.instagram.com/cardshopnearme), or in real life in the [Princeton area](https://maps.app.goo.gl/556ZVxcJBWcedQjs5)!
 
 I am also developing an open source Bayesian layers package called [BLayers](https://github.com/georgeberry/blayers) on top of Jax + Numpyro.
 
