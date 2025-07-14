@@ -18,7 +18,7 @@ Right now, I am building a trading card business called **Card Shop Near Me** in
 
 I am also developing an open source Bayesian layers package called [BLayers](https://github.com/georgeberry/blayers) on top of Jax + Numpyro.
 
-I obtained my PhD in 2020 from Cornell University, where I studied under Michael Macy. My academic interests include social contagion, homophily in networks, online conversations, and experimental design.
+I obtained my PhD in 2020 from Cornell University, where I studied under Michael Macy. My interests include social contagion, homophily in networks, online conversations, and experimental design.
 
 Lately, I write on my [substack blog](https://georgeberry.substack.com/) before publishing elsewhere, and I'm active on [twitter](https://twitter.com/george_berry).
 
@@ -33,10 +33,10 @@ I have also written a (hopefully) clear [introduction to causal inference](https
 
 ## Socials
 
-* [google scholar](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en)
-* [twitter](https://twitter.com/george_berry)
-* [github](https://github.com/georgeberry)
-* [substack blog](https://georgeberry.substack.com/)
+* [Google Scholar](https://scholar.google.com/citations?user=QqsOZm4AAAAJ&hl=en)
+* [Twitter](https://twitter.com/george_berry)
+* [Github](https://github.com/georgeberry)
+* [Substack blog](https://georgeberry.substack.com/)
 * george.e.berry at gmail dot com
 
 ## Consulting
