@@ -9,12 +9,16 @@ knit: (function(input_file, encoding) {
 ---
 
 ```{css, echo=FALSE}
-.container {
-max-width: 600px !important;
-}
-
 .main-container {
   max-width: 750px !important;
+}
+
+.navbar .container {
+  max-width: 750px !important;
+}
+
+.container {
+max-width: 600px !important;
 }
 ```
 
