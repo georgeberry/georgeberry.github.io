@@ -5,8 +5,8 @@ navbar:
   left:
   - text: "About"
     href: index.html
-  - text: "VORP"
-    href: https://vorp.web.app/
+  - text: "VORP.app"
+    href: https://vorp.app/
   - text: "CardShopNear.Me"
     href: https://cardshopnear.me/
   - text: "BLayers"
